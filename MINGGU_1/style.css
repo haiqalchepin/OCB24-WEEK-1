@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+
+div {
+    background-color: darksalmon;
+    padding: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h1 {
+    text-align: center;
+}
+.Oyen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+p {
+    text-align: center;
+}
